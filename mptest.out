@@ -1,0 +1,30 @@
+init
+particles[p.x] after init
+1
+1
+1
+1
+serial f1
+particles[p.x] after serial f1
+5
+5
+5
+5
+parallel f2
+particles[p.x] after parallel f2
+5
+5
+5
+5
+parallel f3
+particles_f3[p.x] after parallel f3
+20
+20
+20
+20
+parallel f4
+particles_f4[p.x] after parallel f4
+415
+415
+415
+415
